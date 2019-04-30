@@ -1,0 +1,17 @@
+  body {
+    
+ color: grey; }
+  dl a{
+      border: 1px solid blue;
+  }
+  dt,em{
+      color: black;
+  }
+  body >* {
+   list-style-type: square; }
+  p+p {
+      text-align: center;
+  }
+  abbr[lang="en"]{
+    color: red;  
+  }
